@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="игра" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/игра" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/игра" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Computer_field.h" />
+		<Unit filename="include/Computer_field_mark.h" />
+		<Unit filename="include/Computer_ship.h" />
+		<Unit filename="include/Fields.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/Player_field.h" />
+		<Unit filename="include/Player_field_mark.h" />
+		<Unit filename="include/Player_ship.h" />
+		<Unit filename="include/Ship_1.h" />
+		<Unit filename="include/Ship_2.h" />
+		<Unit filename="include/Ship_3.h" />
+		<Unit filename="include/Ship_4.h" />
+		<Unit filename="include/Ships.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Computer_field.cpp" />
+		<Unit filename="src/Computer_field_mark.cpp" />
+		<Unit filename="src/Computer_ship.cpp" />
+		<Unit filename="src/Fields.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/Player_field.cpp" />
+		<Unit filename="src/Player_field_mark.cpp" />
+		<Unit filename="src/Player_ship.cpp" />
+		<Unit filename="src/Ship_1.cpp" />
+		<Unit filename="src/Ship_2.cpp" />
+		<Unit filename="src/Ship_3.cpp" />
+		<Unit filename="src/Ship_4.cpp" />
+		<Unit filename="src/Ships.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

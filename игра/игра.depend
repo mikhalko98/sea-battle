@@ -1,0 +1,458 @@
+# depslib dependency file v1.0
+1513197283 source:d:\university\programs\игра\main.cpp
+	<iostream>
+	"Game.h"
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1513198677 d:\university\programs\игра\include\game.h
+	<string>
+	"Player_field.h"
+	"Player_field_mark.h"
+	"Computer_field.h"
+	"Computer_field_mark.h"
+
+1513217740 source:d:\university\programs\игра\src\game.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1513202204 source:d:\university\programs\игра\src\ship_1.cpp
+	"Ship_1.h"
+
+1513196252 d:\university\programs\игра\include\ship_1.h
+
+1513196252 source:d:\university\programs\игра\src\ship_2.cpp
+	"Ship_2.h"
+
+1513196252 d:\university\programs\игра\include\ship_2.h
+
+1513196252 source:d:\university\programs\игра\src\ship_3.cpp
+	"Ship_3.h"
+
+1513196252 d:\university\programs\игра\include\ship_3.h
+
+1513196251 source:d:\university\programs\игра\src\ship_4.cpp
+	"Ship_4.h"
+
+1513196252 d:\university\programs\игра\include\ship_4.h
+
+1513213358 source:d:\university\programs\игра\src\player_ship.cpp
+	"Player_ship.h"
+	<iostream>
+
+1513217981 d:\university\programs\игра\include\player_ship.h
+	<Ship_1.h>
+	<Ship_2.h>
+	<Ship_3.h>
+	<Ship_4.h>
+	"Ships.h"
+
+1513196595 d:\university\programs\игра\include\ships.h
+
+1513196839 source:d:\university\programs\игра\src\ships.cpp
+	"Ships.h"
+	<cstdlib>
+	<iostream>
+
+1513217925 d:\university\programs\игра\include\player_field.h
+	"Player_ship.h"
+	<string>
+
+1513213289 source:d:\university\programs\игра\src\player_field.cpp
+	"Player_field.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1513210647 source:d:\university\programs\игра\src\player_field_mark.cpp
+	"Player_field_mark.h"
+	<fstream>
+	<iostream>
+	<cmath>
+
+1513210632 d:\university\programs\игра\include\player_field_mark.h
+	<string>
+
+1513208228 source:d:\university\programs\игра\src\computer_ship.cpp
+	"Computer_ship.h"
+	<iostream>
+
+1513203165 d:\university\programs\игра\include\computer_ship.h
+	<Ship_1.h>
+	<Ship_2.h>
+	<Ship_3.h>
+	<Ship_4.h>
+	"Ships.h"
+
+1513211473 source:d:\university\programs\игра\src\computer_field.cpp
+	"Computer_field.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1513211213 d:\university\programs\игра\include\computer_field.h
+	"Computer_ship.h"
+	<string>
+
+1513217245 d:\university\programs\игра\include\computer_field_mark.h
+	<string>
+	"Player_field.h"
+
+1513217890 source:d:\university\programs\игра\src\computer_field_mark.cpp
+	"Computer_field_mark.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1513197284 source:f:\university\игра\main.cpp
+	<iostream>
+	"Game.h"
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1513248164 f:\university\игра\include\game.h
+	<string>
+	"Player_field.h"
+	"Player_field_mark.h"
+	"Computer_field.h"
+	"Computer_field_mark.h"
+
+1513248550 f:\university\игра\include\player_field.h
+	"Player_ship.h"
+	<string>
+
+1513247478 f:\university\игра\include\player_ship.h
+	<Ship_1.h>
+	<Ship_2.h>
+	<Ship_3.h>
+	<Ship_4.h>
+	"Ships.h"
+
+1513196254 f:\university\игра\include\ship_1.h
+
+1513196254 f:\university\игра\include\ship_2.h
+
+1513196254 f:\university\игра\include\ship_3.h
+
+1513196254 f:\university\игра\include\ship_4.h
+
+1513196596 f:\university\игра\include\ships.h
+
+1513210634 f:\university\игра\include\player_field_mark.h
+	<string>
+
+1513211214 f:\university\игра\include\computer_field.h
+	"Computer_ship.h"
+	<string>
+
+1513203166 f:\university\игра\include\computer_ship.h
+	<Ship_1.h>
+	<Ship_2.h>
+	<Ship_3.h>
+	<Ship_4.h>
+	"Ships.h"
+
+1513248282 f:\university\игра\include\computer_field_mark.h
+	<string>
+	"Player_field.h"
+
+1513211474 source:f:\university\игра\src\computer_field.cpp
+	"Computer_field.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1513251686 source:f:\university\игра\src\computer_field_mark.cpp
+	"Computer_field_mark.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1513208230 source:f:\university\игра\src\computer_ship.cpp
+	"Computer_ship.h"
+	<iostream>
+
+1513250826 source:f:\university\игра\src\game.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1513250710 source:f:\university\игра\src\player_field.cpp
+	"Player_field.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1513210648 source:f:\university\игра\src\player_field_mark.cpp
+	"Player_field_mark.h"
+	<fstream>
+	<iostream>
+	<cmath>
+
+1513213360 source:f:\university\игра\src\player_ship.cpp
+	"Player_ship.h"
+	<iostream>
+
+1513202206 source:f:\university\игра\src\ship_1.cpp
+	"Ship_1.h"
+
+1513196254 source:f:\university\игра\src\ship_2.cpp
+	"Ship_2.h"
+
+1513196254 source:f:\university\игра\src\ship_3.cpp
+	"Ship_3.h"
+
+1513196252 source:f:\university\игра\src\ship_4.cpp
+	"Ship_4.h"
+
+1513196840 source:f:\university\игра\src\ships.cpp
+	"Ships.h"
+	<cstdlib>
+	<iostream>
+
+1513197284 source:h:\university\игра\main.cpp
+	<iostream>
+	"Game.h"
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1513292172 h:\university\игра\include\game.h
+	<string>
+	"Player_field.h"
+	"Player_field_mark.h"
+	"Computer_field.h"
+	"Computer_field_mark.h"
+
+1513284922 h:\university\игра\include\player_field.h
+	"Player_ship.h"
+	<string>
+
+1513292270 h:\university\игра\include\player_ship.h
+	<Ship_1.h>
+	<Ship_2.h>
+	<Ship_3.h>
+	<Ship_4.h>
+	"Ships.h"
+
+1513196254 h:\university\игра\include\ship_1.h
+
+1513196254 h:\university\игра\include\ship_2.h
+
+1513196254 h:\university\игра\include\ship_3.h
+
+1513196254 h:\university\игра\include\ship_4.h
+
+1513292268 h:\university\игра\include\ships.h
+
+1513290198 h:\university\игра\include\player_field_mark.h
+	<string>
+	"Fields.h"
+
+1513292270 h:\university\игра\include\computer_field.h
+	"Computer_ship.h"
+	<string>
+
+1513292270 h:\university\игра\include\computer_ship.h
+	<Ship_1.h>
+	<Ship_2.h>
+	<Ship_3.h>
+	<Ship_4.h>
+	"Ships.h"
+
+1513292270 h:\university\игра\include\computer_field_mark.h
+	<string>
+	"Player_field.h"
+	"Fields.h"
+
+1513290196 source:h:\university\игра\src\computer_field.cpp
+	"Computer_field.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1513292470 source:h:\university\игра\src\computer_field_mark.cpp
+	"Computer_field_mark.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1513292492 source:h:\university\игра\src\computer_ship.cpp
+	"Computer_ship.h"
+	<iostream>
+
+1513292616 source:h:\university\игра\src\game.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1513292562 source:h:\university\игра\src\player_field.cpp
+	"Player_field.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1513292562 source:h:\university\игра\src\player_field_mark.cpp
+	"Player_field_mark.h"
+	<fstream>
+	<iostream>
+	<cmath>
+
+1513213360 source:h:\university\игра\src\player_ship.cpp
+	"Player_ship.h"
+	<iostream>
+
+1513202206 source:h:\university\игра\src\ship_1.cpp
+	"Ship_1.h"
+
+1513196254 source:h:\university\игра\src\ship_2.cpp
+	"Ship_2.h"
+
+1513196254 source:h:\university\игра\src\ship_3.cpp
+	"Ship_3.h"
+
+1513196252 source:h:\university\игра\src\ship_4.cpp
+	"Ship_4.h"
+
+1513196840 source:h:\university\игра\src\ships.cpp
+	"Ships.h"
+	<cstdlib>
+	<iostream>
+
+1513292272 h:\university\игра\include\fields.h
+	<string>
+
+1513292560 source:h:\university\игра\src\fields.cpp
+	"Fields.h"
+	<cmath>
+
+1513287272 source:h:\university\игра\src\c_fields.cpp
+	"C_fields.h"
+
+1513287266 h:\university\игра\include\c_fields.h
+
+1513200884 source:d:\university\oop\игра\main.cpp
+	<iostream>
+	"Game.h"
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1513515669 d:\university\oop\игра\include\game.h
+	<string>
+	"Player_field.h"
+	"Player_field_mark.h"
+	"Computer_field.h"
+	"Computer_field_mark.h"
+
+1513517179 d:\university\oop\игра\include\player_field.h
+	"Player_ship.h"
+	<string>
+
+1513517790 d:\university\oop\игра\include\player_ship.h
+	<Ship_1.h>
+	<Ship_2.h>
+	<Ship_3.h>
+	<Ship_4.h>
+	"Ships.h"
+
+1513199854 d:\university\oop\игра\include\ship_1.h
+
+1513199854 d:\university\oop\игра\include\ship_2.h
+
+1513199854 d:\university\oop\игра\include\ship_3.h
+
+1513199854 d:\university\oop\игра\include\ship_4.h
+
+1513517584 d:\university\oop\игра\include\ships.h
+
+1513516832 d:\university\oop\игра\include\player_field_mark.h
+	<string>
+	"Fields.h"
+
+1513450444 d:\university\oop\игра\include\fields.h
+	<string>
+
+1513515195 d:\university\oop\игра\include\computer_field.h
+	"Computer_ship.h"
+	<string>
+
+1513517793 d:\university\oop\игра\include\computer_ship.h
+	<Ship_1.h>
+	<Ship_2.h>
+	<Ship_3.h>
+	<Ship_4.h>
+	"Ships.h"
+
+1513516276 d:\university\oop\игра\include\computer_field_mark.h
+	<string>
+	"Player_field.h"
+	"Fields.h"
+
+1513519503 source:d:\university\oop\игра\src\computer_field.cpp
+	"Computer_field.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1513520355 source:d:\university\oop\игра\src\computer_field_mark.cpp
+	"Computer_field_mark.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1513429218 source:d:\university\oop\игра\src\fields.cpp
+	"Fields.h"
+	<cmath>
+
+1513515669 source:d:\university\oop\игра\src\game.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1513516216 source:d:\university\oop\игра\src\player_field.cpp
+	"Player_field.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1513516832 source:d:\university\oop\игра\src\player_field_mark.cpp
+	"Player_field_mark.h"
+	<fstream>
+	<iostream>
+	<cmath>
+
+1513520613 source:d:\university\oop\игра\src\player_ship.cpp
+	"Player_ship.h"
+	<iostream>
+
+1513205806 source:d:\university\oop\игра\src\ship_1.cpp
+	"Ship_1.h"
+
+1513199854 source:d:\university\oop\игра\src\ship_2.cpp
+	"Ship_2.h"
+
+1513199854 source:d:\university\oop\игра\src\ship_3.cpp
+	"Ship_3.h"
+
+1513199852 source:d:\university\oop\игра\src\ship_4.cpp
+	"Ship_4.h"
+
+1513517584 source:d:\university\oop\игра\src\ships.cpp
+	"Ships.h"
+	<cstdlib>
+	<iostream>
+
+1513520687 source:d:\university\oop\игра\src\computer_ship.cpp
+	"Computer_ship.h"
+	<iostream>
+
+1513443686 d:\university\oop\игра\include\logik.h
+
